@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "gd3jVoKJEi0=",
+  "success": true,
+  "projectFilePath": "/home/u/Desktop/MICROSOFT/PRACTISE/WEBAPI/day1/day1.WebApi/day1.WebApi.csproj",
+  "expectedPackageFiles": [
+    "/home/u/.nuget/packages/microsoft.aspnetcore.openapi/9.0.9/microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
+    "/home/u/.nuget/packages/microsoft.extensions.apidescription.server/9.0.0/microsoft.extensions.apidescription.server.9.0.0.nupkg.sha512",
+    "/home/u/.nuget/packages/microsoft.openapi/1.6.25/microsoft.openapi.1.6.25.nupkg.sha512",
+    "/home/u/.nuget/packages/swashbuckle.aspnetcore/9.0.6/swashbuckle.aspnetcore.9.0.6.nupkg.sha512",
+    "/home/u/.nuget/packages/swashbuckle.aspnetcore.swagger/9.0.6/swashbuckle.aspnetcore.swagger.9.0.6.nupkg.sha512",
+    "/home/u/.nuget/packages/swashbuckle.aspnetcore.swaggergen/9.0.6/swashbuckle.aspnetcore.swaggergen.9.0.6.nupkg.sha512",
+    "/home/u/.nuget/packages/swashbuckle.aspnetcore.swaggerui/9.0.6/swashbuckle.aspnetcore.swaggerui.9.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
